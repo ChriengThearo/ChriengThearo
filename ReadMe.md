@@ -1,190 +1,138 @@
-<!--
-CHRIENG THEARO · GITHUB PROFILE README
-
-Ready to use: upload this file as README.md in your public profile repository.
-Personalize: replace YOUR_GITHUB_USERNAME, YOUR_PORTFOLIO_URL and YOUR_EMAIL
-in the optional blocks below, then remove their surrounding comment markers.
-Only enable links after replacing their placeholders.
-Analytics images depend on an external service and may be temporarily unavailable.
--->
-
 <div align="center">
 
-<sub>IDEAS → INTERFACES → APPLICATIONS</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:D14836&height=200&section=header&text=Chrieng%20Thearo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Web%20%26%20Mobile%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-Hi, I'm Chrieng Thearo.
-
-Thoughtful interfaces. Practical software.
-
-Software Development Student · Web & Application Developer
-
-I turn ideas into reliable, user-focused applications—<br>
-from the interface people see to the systems behind it.
-
-<br>
-
-<img src="https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF6B6B" alt="Laravel">
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=FACC15" alt="Python">
-<img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&amp;logo=react&amp;logoColor=67E8F9" alt="React Native">
-
-<br><br>
-
-About   /   Focus   /   Toolkit   /   Approach
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6D5BBA&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+Python+%2B+React+Native;Turning+ideas+into+clean%2C+scalable+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
 
-01 / A little about me
+## 💫 About Me
 
-I'm a Software Development student focused on building modern web and application experiences. I enjoy connecting thoughtful interfaces with dependable backend systems, making software that is useful, understandable, and easy to maintain.
+I'm a **Software Development student** specializing in web and application development — focused on building modern, reliable, and user-focused software.
 
-My current focus is Laravel, Python, and React Native. I learn by building practical projects, exploring new technologies, and improving the details along the way.
-
-What matters to me: clear code, intuitive experiences, and software that solves real problems.
-
-<br>
-
-02 / What I build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ &nbsp; Web experiences</h3>
-      <p>Responsive, user-friendly applications with clean architecture and connected data.</p>
-      <sub>INTERFACES · WEB APPLICATIONS</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>▣ &nbsp; Mobile applications</h3>
-      <p>Exploring cross-platform development with React Native and practical application projects.</p>
-      <sub>MOBILE · CROSS-PLATFORM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌘ &nbsp; Backend &amp; APIs</h3>
-      <p>Business logic, authentication, RESTful APIs, and database integration that support the experience.</p>
-      <sub>SYSTEMS · DATA · INTEGRATION</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◇ &nbsp; Practical experiments</h3>
-      <p>Turning new ideas into working projects through hands-on learning and continuous improvement.</p>
-      <sub>BUILD · LEARN · ITERATE</sub>
-    </td>
-  </tr>
-</table>
+```yaml
+role:        Software Development Student
+specialty:   Laravel · Python · React Native
+interests:
+  - Responsive, user-friendly interfaces
+  - RESTful API design & integration
+  - Application ↔ database architecture
+  - Clean, maintainable, scalable code
+  - Learning new tech through real projects
+```
 
 <br>
 
-03 / My toolkit
+## 🌐 Connect With Me
 
-Area
+<div align="center">
 
-What I work with
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ChriengThearo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-Development
+</div>
 
-Laravel · Python · React Native
-
-Backend & integration
-
-RESTful APIs · Authentication · Business logic
-
-Data
-
-Relational databases · NoSQL databases · Application integration
-
-Interface design
-
-Responsive layouts · Usability · Consistent experiences
-
-Code quality
-
-Maintainable structure · Reusable components · Scalable architecture
-
-<!-- Add specific database, cloud, infrastructure, design and collaboration tools
-here when confirmed. Keep this list focused on tools you actually use. -->
+> 📝 *Tip: swap the `#` links above for your actual LinkedIn/email URLs to make the badges clickable.*
 
 <br>
 
-04 / How I work
+## 💻 Tech Stack
 
-Start with the user. Understand the problem before shaping the solution.
-
-Keep the structure clear. Write code that is easy to read, maintain, and extend.
-
-Connect the whole experience. Bring interfaces, APIs, and databases together.
-
-Keep improving. Use every project as a chance to learn and refine my approach.
-
-<!-- OPTIONAL: SELECTED PROJECTS
-Replace every placeholder with a real project, then uncomment this section.
-
-## 05 / Selected projects
-
-| Project | Problem it solves | Built with |
-| :--- | :--- | :--- |
-| [PROJECT_NAME](PROJECT_REPOSITORY_URL) | ONE_SENTENCE_DESCRIPTION | ACTUAL_TECH_STACK |
-
--->
-
-<!-- OPTIONAL: GITHUB ANALYTICS
-Replace YOUR_GITHUB_USERNAME and uncomment this section to load your own stats.
-Language statistics describe repository composition, not proficiency.
-
-## GitHub / By the numbers
-
-<p align="center">
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=67E8F9&amp;icon_color=67E8F9&amp;text_color=CBD5E1&amp;hide_rank=true" alt="Chrieng Thearo's GitHub statistics">
-</p>
-
-<details>
-<summary>Explore repository languages</summary>
+<details open>
+<summary><b>Languages</b></summary>
 <br>
-<p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=67E8F9&amp;text_color=CBD5E1" alt="Language distribution across public repositories">
-</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 </details>
 
-[Explore my repositories and contribution activity →](https://github.com/YOUR_GITHUB_USERNAME)
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
 
--->
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 
-<!-- OPTIONAL: ACHIEVEMENTS
-Add verified accomplishments here, with supporting links where available.
+</details>
 
-## Milestones
+<details open>
+<summary><b>Databases & Backend</b></summary>
+<br>
 
-- **ACHIEVEMENT_TITLE** · DATE — BRIEF_DESCRIPTION
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
--->
+</details>
 
-<!-- OPTIONAL: CONTACT
-Replace all three placeholders and uncomment this section.
+<details open>
+<summary><b>Cloud, DevOps & Hosting</b></summary>
+<br>
 
-## Let's connect
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Interested in web development, mobile applications, or practical software ideas?
-Let's start a conversation.
+</details>
 
-<p>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-67E8F9?style=for-the-badge&amp;logo=safari&amp;logoColor=0F172A" alt="Visit my portfolio"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge" alt="Send me an email"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub profile"></a>
-</p>
+<details open>
+<summary><b>Design Tools</b></summary>
+<br>
 
--->
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</details>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=ChriengThearo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChriengThearo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=ChriengThearo&theme=dark&hide_border=false" />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ChriengThearo&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
 
 <br>
 
 <div align="center">
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=ChriengThearo&icon=0&color=6D5BBA&style=for-the-badge&label=PROFILE+VIEWS)
 
-Building. Learning. Improving.
-
-<sub>Turning ideas into practical software, one project at a time.</sub>
-
-<br>
+<sub>✨ Proudly redesigned from a template originally generated with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
