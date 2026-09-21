@@ -1,18 +1,167 @@
-# 💫 About Me:
-I am a Software Development student specializing in web and application development, with a strong interest in building modern, reliable, and user-focused software solutions.<br><br>• Specializing in Laravel, Python, and React Native<br>• Experienced in developing responsive and user-friendly interfaces<br>• Knowledge of RESTful API development and integration<br>• Experienced in connecting applications with database backends<br>• Focused on clean, maintainable, and scalable code<br>• Passionate about learning new technologies and applying them through practical projects<br>
+<div align="center">
 
+# 👋 Hi, I'm Chrieng Thearo
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chrieng-thearo-957a10345/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chrieng Thearo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chriengthearo@gmail.com) 
+### Software Development Student · Web & Application Developer
 
-# 💻 Tech Stack:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ChriengThearo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ChriengThearo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChriengThearo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Building practical, reliable, and user-focused software with modern technologies.**
+
+<p>
+  <a href="https://github.com/ChriengThearo">
+    <img src="https://komarev.com/ghpvc/?username=ChriengThearo&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ChriengThearo">
+    <img src="https://img.shields.io/github/followers/ChriengThearo?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ChriengThearo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m a **Software Development student** focused on web and application development, with a strong interest in creating modern, maintainable, and practical software solutions.
+
+* 🚀 Specializing in **Laravel, Python, and React Native**
+* 🎨 Building **responsive and user-friendly interfaces**
+* 🔗 Developing and integrating **RESTful APIs**
+* 🗄️ Connecting applications with **relational and NoSQL databases**
+* 🧩 Writing **clean, maintainable, and scalable code**
+* 📚 Continuously learning and turning new technologies into practical projects
+
+---
+
+## 🧠 What I Work With
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,react,reactnative,javascript,html,css,cpp,rust&perline=8" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase&perline=8" />
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,github,git&perline=8" />
+
+### 🎨 Design & Collaboration
+
+<img src="https://skillicons.dev/icons?i=figma,canva&perline=8" />
+
+---
+
+## ⚡ Developer Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Building modern web applications with clean architecture, responsive interfaces, APIs, and database integration.
+
+</td>
+<td width="50%">
+
+### 📱 Application Development
+
+Exploring mobile and cross-platform application development with React Native and related technologies.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗃️ Backend & APIs
+
+Designing backend systems, business logic, authentication, and RESTful API integrations.
+
+</td>
+<td width="50%">
+
+### 🧪 Practical Projects
+
+Learning through real projects, experimentation, system development, and continuous improvement.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChriengThearo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChriengThearo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ChriengThearo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChriengThearo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChriengThearo&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ChriengThearo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace the links below with your real accounts -->
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_MASTODON_URL">
+<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+*Turning ideas into practical software, one project at a time.*
+
+</div>
+
+<!-- Profile README by Chrieng Thearo -->
